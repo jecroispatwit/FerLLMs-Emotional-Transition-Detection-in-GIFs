@@ -4,3 +4,4 @@ processed_data/TestingData/downLoadedGifs/
 *.gif
 processed_data/p_crema/emotion_recognition_vit.pth
 *.pth
+processed_data/FERGPT.ipynb
