@@ -2,3 +2,5 @@ processed_data/p_crema/env/
 processed_data/p_crema/CremaGifs/
 processed_data/TestingData/downLoadedGifs/
 *.gif
+processed_data/p_crema/emotion_recognition_vit.pth
+*.pth
