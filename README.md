@@ -57,8 +57,8 @@ This repository contains the research, code, and documentation for my thesis pro
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-thesis-repo.git
-   cd your-thesis-repo
+   git clone [https://github.com/your-username/FerLLMs-Emotional-Transition-Detection-in-GIFs](https://github.com/jecroispatwit/FerLLMs-Emotional-Transition-Detection-in-GIFs).git
+   cd FerLLMs-Emotional-Transition-Detection-in-GIFs
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
@@ -79,8 +79,8 @@ This repository contains the research, code, and documentation for my thesis pro
 If you'd like to contribute, feel free to fork the repository and submit a pull request. Please follow best practices and ensure that your code is well-documented.
 
 ## License
-[Specify your license, e.g., MIT, GPL, etc.]
+[Wentworth Institute Of Technology]
 
 ## Contact
-For questions or discussions, feel free to open an issue or reach out to me at [your email or contact info].
+For questions or discussions, feel free to open an issue or reach out to me at [jecroisp@wit.edu].
 
